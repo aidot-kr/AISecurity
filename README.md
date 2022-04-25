@@ -91,13 +91,23 @@ per_word_topics : 각 단어에 대해 가장 가능성이 높은 주제의 내�
  
 # 9-1_RNN.ipynb --> Local PC 실행
  - hihello에서 마지막 o를 추측하는 예제
+ - colab에서 실습하는 경우 아래의 코드를 상단에서 먼저 실행시키세요
+   !pip install tensorflow==1.14
 # 9-2_LSTM.ipynb --> Local PC 실행
  - hihello에서 마지막 o를 추측하는 예제
+ - colab에서 실습하는 경우 아래의 코드를 상단에서 먼저 실행시키세요
+   !pip install tensorflow==1.14
+
 # 9-3_GRU.ipynb --> Local PC 실행
  - hihello에서 마지막 o를 추측하는 예제
+ - colab에서 실습하는 경우 아래의 코드를 상단에서 먼저 실행시키세요
+   !pip install tensorflow==1.14
+
 # 9-4_BLSTM.ipynb --> Local PC 실행
  - MNIST image에서 image가 0에서 9중 어떤 숫자인지 예측하는 Bidirectional LSTM
- 
+ - colab에서 실습하는 경우 아래의 코드를 상단에서 먼저 실행시키세요
+   !pip install tensorflow==1.14
+
 # 10_Seq2Seq.ipynb --> Local PC 실행
  - 짧은 영어 문장을 짧은 프랑스어 문장으로 번역하는 예제
  
