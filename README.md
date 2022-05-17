@@ -88,16 +88,16 @@ per_word_topics : 각 단어에 대해 가장 가능성이 높은 주제의 내�
  - 4) 한글 형태소 분석기를 사용한 ngram
  - 6) 조건부 확률의 추정
  
-# 9-1_RNN.ipynb --> Local PC 실행
+# 9-1_RNN.ipynb 
  - hihello에서 마지막 o를 추측하는 예제
-# 9-2_LSTM.ipynb --> Local PC 실행
+# 9-2_LSTM.ipynb 
  - hihello에서 마지막 o를 추측하는 예제
-# 9-3_GRU.ipynb --> Local PC 실행
+# 9-3_GRU.ipynb 
  - hihello에서 마지막 o를 추측하는 예제
-# 9-4_BLSTM.ipynb --> Local PC 실행
+# 9-4_BLSTM.ipynb 
  - MNIST image에서 image가 0에서 9중 어떤 숫자인지 예측하는 Bidirectional LSTM
  
-# 10_Seq2Seq.ipynb --> Local PC 실행
+# 10_Seq2Seq.ipynb 
  - 짧은 영어 문장을 짧은 프랑스어 문장으로 번역하는 예제
  
 # 11_Attention.ipynb
